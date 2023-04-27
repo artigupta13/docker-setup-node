@@ -1,4 +1,3 @@
-### base image node 
 FROM node:16-slim
 ENV NODE_ENV=production
 
